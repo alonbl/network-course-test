@@ -1,6 +1,6 @@
 LINUX NOTES
 ===========
-
+hahahahah
 cap_net_raw is required to run programs, copy python executable
 to custom directory and set cap_net_raw capability:
 
